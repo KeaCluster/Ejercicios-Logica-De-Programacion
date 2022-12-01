@@ -10,6 +10,8 @@
 - Output
   - Mostrar por consola el texto ingresado de forma invertida.
 
+--- 
+
 Input:
 ```
 Hola Generation
@@ -18,5 +20,8 @@ Output:
 ``` 
 noitareneG aloH
 ```
+
+## Consideraciones
+
 - Agregar a ésta carpeta el archivo `.java` que contenga la clase principal, así como su método `void main`.
-- Puedes desarrollar un algoritmo y su pseudocódigo
+- Puedes desarrollar el algoritmo y su pseudocódigo

@@ -22,7 +22,7 @@
 - Legibilidad
 - Simplicidad
 - Optimización 
-
+- Cada ejercicio está revisado para poder ser resuelto en 1hr o menos.
 
 ### Otras notas
 
