@@ -19,14 +19,6 @@
 
 --- 
 
-Input:
-```
-3
-```
-Output:
-``` 
-0, 1, 1
-```
 
 ## Consideraciones
 
