@@ -15,7 +15,7 @@
 - Output
   - Imprimir por consola o DOM un mensaje diciendo "Ups, el número secreto es incorrecto, vuelve a intentarlo." y volver a solicitarle que ingrese un número, en caso de no adivinar el número secreto.
   - Imprimir por consola o DOM un mensaje diciendo "Felicidades, adivinaste el número secreto." en caso de adivinar el número secreto.
-  - Imprimr por consola o DOM la lista de númros introducidos antes de adivinar el número secreto.
+  - Imprimir por consola o DOM la lista de números introducidos antes de adivinar el número secreto.
 
 --- 
 

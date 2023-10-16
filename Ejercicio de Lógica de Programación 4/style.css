@@ -35,7 +35,7 @@ form{
     align-items: center;
     justify-content: space-between;
     background-color: #526D82;
-    width: 10em;
+    width: minmax(10em, fit-content);
     height: 5em;
     padding: 2em;
     border-radius: 10px;
